@@ -1,0 +1,406 @@
+#+STARTUP: content
+
+* Drawing
+
+** Prompts
+
+*** A collection of drawing prompts
+
+    #+begin_src text
+      Draw something that has buttons
+      Draw something super
+      Draw something you can keep in your pocket
+      Draw something blue
+      Draw a garden tool
+      Draw something sad
+      Draw something related to what you do
+      Draw something forbidden
+      Draw something you'll give away
+      Draw the condiments on a diner or casual restaurant table
+      Draw something with numbers
+      Draw your hair in the morning
+      Draw a travel memory
+      Draw something under water
+      Draw something that has a knob
+      Draw something you look up at from below
+      Draw something very light
+      Draw something that you need two of to make a set
+      Draw your junk drawer
+      Draw something with more than 2 legs
+      Draw something slippery
+      Draw something raw
+      Draw a snack
+      Draw something huge
+      Something you can tie
+      Draw something frozen
+      Draw something in motion
+      Draw something cute
+      Draw something bright
+      Draw a table
+      Draw something strange
+      Draw a bottle of water
+      Draw something orange
+      Draw some toast
+      Draw something that makes you smile
+      Draw something made of glass
+      Draw a night scene
+      Draw or paint an illustration for the cover of your favorite book
+      Draw a teapot
+      Draw an appliance you bought or received but don't use
+      Draw something with spots
+      Draw something colorful
+      Draw a shirt
+      Draw something that loves the sun
+      Draw your downtown
+      Draw something shiny
+      Something you've been putting off doing, or don't want to do
+      Draw what keeps you warm or cool
+      Something you don't see every day
+      Something that starts with the last letter of your name.
+      Something that starts with the first letter of your name
+      Something that should have been invented by now
+      Draw your grocery store
+      Draw a tube of toothpaste
+      Draw the cover of your favorite book
+      Draw a collection of tools
+      Illustrate a line from a song.
+      Free choice
+      Draw something you'd like to preserve
+      Draw something annoying
+      Draw something you need
+      Draw something flexible
+      Draw something or someone you cherish
+      Draw your neighbor
+      Draw your floor
+      Draw your favorite cleaning supply
+      Draw your shower or tub
+      Draw a Winter Olympic event
+      Draw a filled suitcase
+      Draw something from a pet's point of view
+      Draw the inside of your closet
+      Draw a house plant
+      Draw something bubbly
+      Draw a person near you on a train, bus or plane
+      Draw something that represents joy
+      Draw your socks
+      Draw a pine or fir tree
+      Draw perfume or a scented product
+      Draw something you got for free
+      Draw a coffeepot
+      Draw a lock
+      Draw something creepy
+      Draw some gloves
+      Draw something October
+      Draw the oldest thing in your refrigerator
+      Draw a pillow
+      Draw a figurine or tzatchke you have
+      Draw what you see from your kitchen window
+      Draw a pencil, your favorite if you like
+      Draw something that has scared you
+      Draw something from a first aid kit
+      Draw what's under your bed or the view from under your bed
+      Draw the palm of your left hand
+      Draw a butterfly
+      Draw something that belongs to someone else
+      Draw your favorite drink
+      Draw the last thing you bought
+      Draw your junk drawer
+      Draw a map
+      Draw a summer joy
+      Draw something that makes you laugh
+      Draw a tote bag
+      Draw a screw
+      Draw something sticky
+      Draw a jug or pitcher
+      Draw your favorite sound
+      Draw your favorite drawing tool
+      Draw a hand held game
+      Draw the moon
+      Draw a window
+      Draw a knife
+      Draw an umbrella
+      Draw your inner critic
+      Draw your thumb
+      Draw something representing a favorite hobby
+      Draw a microwave oven
+      Draw something with a mirror image
+      Draw or paint an everyday object in the style of an old master or notable painter you admire.
+      Draw some underwear
+      Draw a shadow
+      Something out of place
+      Draw something that has a shell, or draw a seashell
+      Draw something familiar to you that you know is called something else in another region. (Example: soda is also called pop)
+      Draw a soda can
+      Draw something frosty
+      Draw a glass of juice
+      Draw a cookie
+      Draw a stapler
+      Draw something lucky
+      Draw a toe
+      Draw some noodles
+      Draw a remote control
+      Draw a rope
+      Draw a fork
+      Draw a baked potato
+      Draw a closeup part of something
+      Draw something that floats
+      Draw some paper money
+      Draw your palette or selection of colors
+      Draw a shaver or razor
+      Draw a peanut in the shell or out
+      Draw a fan
+      Draw something you've always wanted
+      Draw a cat
+      Draw a park bench or other outside bench
+      Draw something dangerous
+      Draw a truck.
+      Draw a trash or garbage can
+      Draw something in your favorite color
+      Draw an onion
+      Draw something red
+      Draw a flag
+      Draw something summer
+      Draw a basket and what it holds
+      Draw a bridge
+      Draw something from memory
+      Draw something that sparkles
+      Draw some ice cream
+      Draw a zipper
+      Draw a piece of cake
+      Draw your daily newspaper
+      Draw something that needs fixing
+      Draw a fish
+      Draw the front of your house, apartment bldg, condo, dorm etc.
+      Draw a camera
+      Draw a deck of cards
+      Draw your breakfast
+      Draw something you think smells wonderful
+      Draw a trophy or award
+      Draw a favorite cooking tool
+      Draw a kernel of popped popcorn
+      Draw a towel
+      Draw a sandwich
+      Draw something with a step or steps
+      Draw or paint a lemon
+      Draw something in a plastic wrapper
+      Draw a nut
+      Free choice
+      Draw a candle
+      Draw a broom
+      Draw or paint something soothing
+      Draw or paint something made of wood
+      Draw a favorite food
+      Draw (or paint) a tree in autumn
+      Draw something square
+      Draw an herb or spice
+      Draw something hot
+      Draw something with bristles
+      Draw an envelope
+      Draw something with a handle
+      Draw something soft
+      Draw something you can turn on or off
+      Draw or paint something that's alive - a living thing - animal or plant
+      Draw a salad
+      Draw a familiar person place or thing, but from an unusual angle
+      Draw a peach
+      Draw a chain
+      Draw a spray bottle
+      Draw some school supplies.
+      Draw people doing something.
+      Draw a view through a doorway from one interior room to another.
+      Draw a skyscape
+      Draw a sponge
+      Draw a bird
+      Draw something yellow
+      Draw a bell
+      Draw something where shade is a prominent part of the subject
+      Draw a coin or some coins and journal about memories about coins from your childhood.
+      Draw a flashlight
+      Draw some rocks
+      Draw some hair
+      Draw something round
+      Draw something green
+      Draw a shopping cart or basket
+      Draw something ugly you love and keep for sentimental reasons. Journal about it, too.
+      Draw or paint a fence
+      Draw something fresh
+      Draw a bowl
+      Draw something with a flame or flames
+      Draw a clock you have around your house
+      Draw a light bulb
+      Draw how you get your news - at a newsstand, vending box or on your porch
+      Draw something tart or sour
+      Draw some scissors
+      Draw some salt and pepper shakers
+      Draw some exercise equipment - what you use to stay fit.
+      Draw a power plug
+      Draw a bar of soap
+      Draw or paint a landscape
+      Draw something that represents a new years resolution of yours
+      Free choice. Draw anything you like. We're all busy before the holidays.
+      Draw a present you have received. Why is it special?
+      Draw something sweet
+      Draw a holiday card
+      Draw a spoon and journal a little about it
+      Draw an egg carton, with or without eggs in it.
+      Draw a brown paper bag
+      Draw an apple
+      Draw something with wings
+      Draw a button or buttons
+      Draw something breezy - something that blows in the wind - a flag, leaves, your choice
+      Draw your lunch and journal about it.
+      Draw a traffic sign (stop, yield, crossing, directional, arrows, etc.)
+      Draw a store in your neighborhood.
+      Draw some bread and write about it if you like.
+      Draw a nearby body of water - ocean, lake, pond, river
+      Draw your artspace - drawing board, desk, studio, table - draw where you create.
+      Draw a streetlight
+      Draw something that makes you happy, and write about it, too.
+      Draw an ear, or two or three or more
+      Draw a souvenir of a place you've been. journal a bit about your memories of the place.
+      Draw something cold or cool. Chill, people.
+      Draw some flowers (or colorful showy foliage if you're in the S. hemisphere and don't find flowers in bloom.)
+      Draw the ingredients and/or process of a favorite recipe - and journal about it.
+      Draw some clouds and write about them
+      Draw a mailbox and write about the most important piece of real world mail you've ever received(not email - snail mail.)
+      Draw somewhere new. Go somewhere new to you and draw what you find. Write about it, too.
+      Draw something representing your favorite sport.
+      Draw what you're afraid of. Write about it, if you dare.
+      Draw a beverage and write a little about it.
+      Draw your computer
+      Draw something Mom - your mother, something that reminds you of motherhood. Journal, too.
+      Draw a fire hydrant and make a journal entry about fire fighters
+      Draw your nose, a friend's or a strangers. Or a pet's.
+      Draw your sink - at home, work or wherever
+      Go on a nature walk, pick up items, draw what you find
+      Draw a previous challenge in a different medium than you usually use.
+      Draw a grouping of 2 or more of similar objects
+      Draw an automobile or a part of one
+      Draw a sign or spring (or fall if you live in the southern hemisphere.)
+      Draw a hat, cap or other headgear. is it sentimental? Write about it.
+      Draw a picture frame and the picture in it. Write about why it's special to you.
+      Draw a self portrait
+      Draw a doorknob, plain or fancy
+      Draw someone or something you love - and journal about it.
+      Draw a mouth and journal about speaking out or holding one's tongue 
+      Draw a dog (yours or a friends or anyone's) and journal about your dog relationships.
+      Draw your TV and favorite show playing. Journal about why you like that show etc.
+      Draw your home's entryway and journal your thoughts and feelings about "homecoming."
+      Draw your refrigerator interior (and contents) or exterior (and what's on the door)
+      Draw something that represents your new year's goal or resolution
+      Draw a challenge from the past year 1-46 that you didn't try before
+      Draw something holiday themed (Hanukah, Christmas, Kwanzaa, winter solstice)
+      Draw your medicine cabinet (the inside of it)
+      Draw an animal - a pet, a zoo animal, a stuffed one
+      Draw something china or ceramic
+      Draw something you are thankful for
+      Draw a landmark of your city
+      Draw something with folds
+      Draw your toothbrush
+      month long challenge until end of November 2005 - draw at a museum
+      Draw something related to Halloween, All Souls Day, Dia de los Muertos, All Saints, etc.
+      Draw some keys
+      Draw out in public
+      Draw a bicycle or a part of one
+      Draw a fall leaf
+      Draw an eye
+      Draw something metallic
+      Draw something you collect
+      Draw a chair or anything else you feel like.
+      Draw something architectural or anything else.
+      Draw an appliance or anything else you like.
+      Draw a book or anything else you want.
+      Draw anything you like. If you want to draw a vegetable, that's fine, too.
+      Draw a glass (the kind you drink from)
+      Draw a piece of fruit
+      Draw your foot
+      Draw a piece of clothing
+      Draw something old, antique or vintage
+      Draw something "Dad" - in honor of Fathers Day
+      Draw something you've made
+      Draw the view from a window of your house, apartment, office, etc.
+      Draw a musical instrument
+      Draw a favorite tool
+      Draw a tree or trees, leaves or branches
+      Draw what you see in the morning when you get up
+      Draw your telephone (land line, cell, old-fashioned?)
+      Draw what you ate for dinner
+      Draw your glasses or sunglasses
+      Draw your hand or hands (or someone elses if you like)
+      Draw a bit of "organized chaos" - your messy desk, your table stacked with books, etc.
+      Draw your watch or other piece of jewelry
+      Draw a bottle, jar or tin from the kitchen
+      Draw your favorite well-loved object,  or a childhood toy
+      Draw your bed
+      Draw your mug or cup
+      Purses, Wallets or Bags
+      Draw a desk lamp or other lamp
+      Draw a shoe
+
+    #+end_src
+    
+* Watercolour
+
+** Triads
+
+*** All Purpose
+    Transparent Yellow
+    Vermillion
+    Cobalt Blue
+*** Summer
+    Transparent Yellow
+    Quin Magenta
+    Phthalo Blue
+*** Fall
+    Quin Gold
+    Quin Magenta
+    Ultramarine Blue
+*** Opaque
+    Cad Yellow Medium
+    Cad Red Medium
+    Cobalt Blue
+*** Fog
+    Cad Yellow Medium
+    Quin Magenta
+    Cobalt Turquoise
+*** Luminous Lifting Transparent
+    Rose Madder Genuine
+    Aureolin
+    Cobalt Blue
+*** Desert Opaque
+    Indian Red
+    Yellow Ochre
+    Cerulean
+*** High Key
+    Winsor Yellow
+    Winsor Red
+    Winsor Blue
+*** Dull and Sedimentary
+    Gold Ochre
+    Venetian Red
+    Indigo
+*** unnamed 1
+    Raw Sienna
+    Permanent Rose
+    Winsor Green
+*** unnamed 2
+    Cad Yellow Light
+    Permanent Rose
+    Phthalo Blue
+*** unnamed 3
+    New Gamboge
+    Cad Red
+    Winsor Blue
+*** unnamed 4
+    Cad Lemon
+    Permanent Alizarin Crimson
+    Phthalo Blue
+*** unnamed 5
+    Winsor Yellow
+    Phthalo Blue
+    Quin Magenta
+*** unnamed 6
+    Deep Ochre
+    Cerulean Blue
+    Manganese Violet
+     
